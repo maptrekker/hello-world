@@ -1,0 +1,478 @@
+﻿<!DOCTYPE album SYSTEM "http://www.drakeserver.com/dtds/pagegen.dtd">
+<album>
+
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+
+        <set issue="1913" description="Series I">
+            <row-set description="Unwatermarked, 19x22½ mm\n\nLine Perforated 12">
+                <s>"22 26" "½s" "Brown" "" "115(131a)"</s>
+                <s>"22 26" "1s" "Orange" "" "116 (132a)"</s>
+                <s>"22 26" "1½s" "Deep Dull Blue" "" "117 (133a)"</s>
+                <s>"22 26" "2s" "Green" "" "118 (134a)"</s>
+                <s>"22 26" "3s" "Scarlet" "" "119 (135a)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "4s" "Scarlet Vermilion" "" "120 (136a)"</s>
+                <s>"22 26" "5s" "Deep Purple" "" "121 (137a)"</s>
+                <s>"22 26" "10s" "Steel Blue" "" "122 (138a)"</s>
+                <s>"22 26" "20s" "Deep Claret" "" "123 (139a)"</s>
+                <s>"22 26" "25s" "Blackish Olive" "" "124 (140a)"</s>
+                <s>"22 26" "1y" "Deep Yellowish Green and Crimson" "" "125 (141a)"</s>
+            </row-set>
+        </set>
+
+        <set>
+            <row-set description="Line Perforated 12x12½">
+                <s>"22 26" "½s" "Brown" "" "115(131b)"</s>
+                <s>"22 26" "1s" "Orange" "" "116 (132b)"</s>
+                <s>"22 26" "1½s" "Deep Dull Blue" "" "117 (133b)"</s>
+                <s>"22 26" "2s" "Green" "" "118 (134b)"</s>
+                <s>"22 26" "3s" "Scarlet" "" "119 (135b)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "4s" "Scarlet Vermilion" "" "120 (136b)"</s>
+                <s>"22 26" "5s" "Deep Purple" "" "121 (137b)"</s>
+                <s>"22 26" "10s" "Steel Blue" "" "122 (138b)"</s>
+                <s>"22 26" "20s" "Deep Claret" "" "123 (139b)"</s>
+                <s>"22 26" "25s" "Blackish Olive" "" "124 (140b)"</s>
+            </row-set>
+        </set>
+    </page>
+
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+
+        <set issue="1913" description="Series I">
+            <row-set description="Unwatermarked, 19x22½ mm\n\nLine Perforated 13x13½">
+                <s>"22 26" "½s" "Brown" "" "115(131c)"</s>
+                <s>"22 26" "1s" "Orange" "" "116 (132c)"</s>
+                <s>"22 26" "1½s" "Deep Dull Blue" "" "117 (133c)"</s>
+                <s>"22 26" "2s" "Green" "" "118 (134c)"</s>
+                <s>"22 26" "3s" "Scarlet" "" "119 (135c)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "4s" "Scarlet Vermilion" "" "120 (136c)"</s>
+                <s>"22 26" "5s" "Deep Purple" "" "121 (137c)"</s>
+                <s>"22 26" "10s" "Steel Blue" "" "122 (138c)"</s>
+                <s>"22 26" "20s" "Deep Claret" "" "123 (139c)"</s>
+                <s>"22 26" "25s" "Blackish Olive" "" "124 (140c)"</s>
+            </row-set>
+        </set>
+
+        <set issue="Constant Plate Flaw"></set>
+        <set issue="" description="">
+            <row-set description="Positions 14, 19, 34, 39, 54, 59, 74, 79, 94, 99">
+                <s image="images/Japan/138a.jpg" image-only="true" border="false">"18 18" "" "" "" ""</s>
+            </row-set>
+            <comp-set spacing = "low" >
+                <row-set description="Line Perforated 12">
+                    <s>"22 26" "10s" "Steel Blue" "" "122 (138a)"</s>
+                </row-set>
+                <row-set description="Line Perforated 12x12½">
+                    <s>"22 26" "10s" "Steel Blue" "" "122 (138b)"</s>
+                </row-set>
+                <row-set description="Line Perforated 13x13½">
+                    <s>"22 26" "10s" "Steel Blue" "" "122 (138c)"</s>
+                </row-set>
+            </comp-set>
+        </set>
+
+    </page>
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+
+        <set issue="1914-25" description="Series II">
+            <row-set description="Watermarked Zigzag Lines, &quot;Old Die&quot; 19x22½ mm\n\nPaper &quot;A&quot;\n\nLine Perforated 12">
+                <s>"22 26" "½s" "Deep Brown" "" "127(142Aa)"</s>
+                <s>"22 26" "1s" "Orange" "" "128 (143Aa)"</s>
+                <s>"22 26" "1½s" "Deep Dull Blue" "" "129 (144Aa)"</s>
+                <s>"22 26" "2s" "Deep Green" "" "130 (145Aa)"</s>
+                <s>"22 26" "3s" "Scarlet" "" "131 (146Ab)"</s>
+                <s>"22 26" "4s" "Scarlet Vermilion" "" "132 (147Aa)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "4s" "Carmine Lake" "" "132 (147Aaa)"</s>
+                <s>"22 26" "5s" "Deep Purple" "" "133 (148Aa)"</s>
+                <s>"22 26" "10s" "Steel Blue" "" "136 (151Aa)"</s>
+                <s>"22 26" "20s" "Deep Claret" "" "138 (153Aa)"</s>
+                <s>"22 26" "25s" "Blackish Olive" "" "139 (154Aa)"</s>
+                <s>"22 26" "1y" "Deep Yellowish Green and Crimson" "" "145 (157Aa)"</s>
+            </row-set>
+        </set>
+        
+        <set>
+            <row-set description="Comb Perforated 12x12½">
+                <s>"22 26" "½s" "Deep Brown" "" "127(142Ab)"</s>
+                <s>"22 26" "1s" "Orange" "" "128 (143Ab)"</s>
+                <s>"22 26" "1½s" "Deep Dull Blue" "" "129 (144Ab)"</s>
+                <s>"22 26" "2s" "Deep Green" "" "130 (145Ab)"</s>
+                <s>"22 26" "3s" "Scarlet" "" "131 (146Ab)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "4s" "Scarlet Vermilion" "" "132 (147Ab)"</s>
+                <s>"22 26" "4s" "Carmine Lake" "" "132 (147Aba)"</s>
+                <s>"22 26" "5s" "Deep Purple" "" "133 (148Ab)"</s>
+                <s>"22 26" "10s" "Steel Blue" "" "136 (151Ab)"</s>
+                <s>"22 26" "20s" "Deep Claret" "" "138 (153Ab)"</s>
+                <s>"22 26" "25s" "Blackish Olive" "" "139 (154Ab)"</s>
+            </row-set>
+        </set>
+
+    </page>
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+
+       <set issue="1914-25" description="Series II">
+            <row-set description="Watermarked Zigzag Lines, &quot;Old Die&quot; 19x22½ mm\n\nPaper &quot;A&quot;\n\nComb Perforated 13x13½">
+                <s>"22 26" "½s" "Deep Brown" "" "127(142Ac)"</s>
+                <s>"22 26" "1s" "Orange" "" "128 (143Ac)"</s>
+                <s>"22 26" "1½s" "Deep Dull Blue" "" "129 (144Ac)"</s>
+                <s>"22 26" "2s" "Deep Green" "" "130 (145Ac)"</s>
+                <s>"22 26" "3s" "Scarlet" "" "131 (146Ac)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "4s" "Scarlet Vermilion" "" "132 (147Ac)"</s>
+                <s>"22 26" "4s" "Carmine Lake" "" "132 (147Aca)"</s>
+                <s>"22 26" "5s" "Deep Purple" "" "133 (148Ac)"</s>
+                <s>"22 26" "10s" "Steel Blue" "" "136 (151Ac)"</s>
+                <s>"22 26" "20s" "Deep Claret" "" "138 (153Ac)"</s>
+                <s>"22 26" "25s" "Blackish Olive" "" "139 (154Ac)"</s>
+            </row-set>
+        </set>
+    
+    </page>
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+
+        <set issue="1914-25" description="Series II">
+            <row-set description="Watermarked Zigzag Lines, &quot;Old Die&quot; 19x22½ mm\n\nPaper &quot;B&quot;\n\nLine Perforated 12">
+                <s>"22 26" "½s" "Brown" "" "127(142Ba)"</s>
+                <s>"22 26" "1s" "Orange" "" "128 (143Ba)"</s>
+                <s>"22 26" "1½s" "Dull Blue" "" "129 (144Ba)"</s>
+                <s>"22 26" "2s" "Green" "" "130 (145Ba)"</s>
+                <s>"22 26" "3s" "Rosine" "" "131 (146Ba)"</s>
+                <s>"22 26" "5s" "Purple" "" "133 (148Ba)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "6s" "Red-Brown" "" "134 (149Ba)"</s>
+                <s>"22 26" "8s" "Gray-Black" "" "135 (150Ba)"</s>
+                <s>"22 26" "10s" "Deep Dull Blue" "" "136 (151Ba)"</s>
+                <s>"22 26" "20s" "Deep Claret" "" "138 (153Ba)"</s>
+                <s>"22 26" "30s" "Chestnut" "" "140 (155Ba)"</s>
+                <s>"22 26" "1y" "Deep Yellowish Green and Crimson" "" "145 (157Ba)"</s>
+            </row-set>
+        </set>
+
+        <set>
+            <row-set description="Comb Perforated 12x12½">
+                <s>"22 26" "½s" "Brown" "" "127(142Bb)"</s>
+                <s>"22 26" "1s" "Orange" "" "128 (143Bb)"</s>
+                <s>"22 26" "1½s" "Dull Blue" "" "129 (144Bb)"</s>
+                <s>"22 26" "2s" "Green" "" "130 (145Bb)"</s>
+                <s>"22 26" "3s" "Rosine" "" "131 (146Bb)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "4s" "Scarlet Vermilion" "" "132 (147Bb)"</s>
+                <s>"22 26" "5s" "Purple" "" "133 (148Bb)"</s>
+                <s>"22 26" "6s" "Red-Brown" "" "134 (149Bb)"</s>
+                <s>"22 26" "8s" "Gray-Black" "" "135 (150Bb)"</s>
+                <s>"22 26" "10s" "Deep Dull Blue" "" "136 (151Bb)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "10s" "Steel Blue" "" "136 (151Bba)"</s>
+                <s>"22 26" "20s" "Deep Claret" "" "138 (153Bb)"</s>
+                <s>"22 26" "25s" "Blackish Olive" "" "139 (154Bb)"</s>
+                <s>"22 26" "30s" "Chestnut" "" "140 (155Bb)"</s>
+                <s>"22 26" "50s" "Deep Brown" "" "143(156Bb)"</s>
+            </row-set>
+        </set>
+
+    </page>
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+
+        <set issue="1914-25" description="Series II">
+            <row-set description="Watermarked Zigzag Lines, &quot;Old Die&quot; 19x22½ mm\n\nPaper &quot;B&quot;\n\nComb Perforated 13x13½">
+                <s>"22 26" "½s" "Brown" "" "127(142Bc)"</s>
+                <s>"22 26" "1s" "Orange" "" "128 (143Bc)"</s>
+                <s>"22 26" "1½s" "Dull Blue" "" "129 (144Bc)"</s>
+                <s>"22 26" "1½s" "Deep Dull Blue" "" "129 (144Bca)"</s>
+                <s>"22 26" "2s" "Green" "" "130 (145Bc)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "3s" "Rosine" "" "131 (146Bc)"</s>
+                <s>"22 26" "4s" "Scarlet Vermilion" "" "132 (147Bc)"</s>
+                <s>"22 26" "5s" "Purple" "" "133 (148Bc)"</s>
+                <s>"22 26" "6s" "Red-Brown" "" "134 (149Bc)"</s>
+                <s>"22 26" "8s" "Gray-Black" "" "135 (150Bc)"</s>
+                <s>"22 26" "10s" "Deep Dull Blue" "" "136 (151Bc)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "10s" "Steel Blue" "" "136 (151Bca)"</s>
+                <s>"22 26" "20s" "Deep Claret" "" "138 (153Bc)"</s>
+                <s>"22 26" "25s" "Blackish Olive" "" "139 (154Bc)"</s>
+                <s>"22 26" "30s" "Chestnut" "" "140 (155Bc)"</s>
+                <s>"22 26" "50s" "Deep Brown" "" "143(156Bc)"</s>
+            </row-set>
+        </set>                
+
+    </page>
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+
+        <set issue="1914-25" description="Series II">
+            <row-set description="Watermarked Zigzag Lines, &quot;Old Die&quot; 19x22½ mm\n\nPaper &quot;C&quot;\n\nLine Perforated 12">
+                <s>"22 26" "½s" "Brown" "" "127(142Ca)"</s>
+                <s>"22 26" "1s" "Orange" "" "128 (143Ca)"</s>
+                <s>"22 26" "1½s" "Dull Blue" "" "129 (144Ca)"</s>
+                <s>"22 26" "2s" "Green" "" "130 (145Ca)"</s>
+                <s>"22 26" "1y" "Deep Yellow-Green and Crimson" "" "145 (157Ca)"</s>
+            </row-set>
+        </set>
+
+        <set>
+            <row-set description="Comb Perforated 12x12½">
+                <s>"22 26" "1s" "Orange" "" "128 (143Cb)"</s>
+                <s>"22 26" "1½s" "Dull Blue" "" "129 (144Cb)"</s>
+                <s>"22 26" "2s" "Green" "" "130 (145Cb)"</s>
+                <s>"22 26" "3s" "Rosine" "" "131 (146Cb)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "4s" "Vermilion" "" "132 (147Cb)"</s>
+                <s>"22 26" "10s" "Deep Dull Blue" "" "136 (151Cb)"</s>
+                <s>"22 26" "20s" "Deep Magenta" "" "138 (153Cb)"</s>
+                <s>"22 26" "25s" "Blackish Olive" "" "139 (154Cb)"</s>
+            </row-set>
+        </set>
+        
+        <set>
+            <row-set description="Line Perforated 12½">
+                <s>"22 26" "10s" "Deep Dull Blue" "" "136 (151Cd)"</s>
+                <s>"22 26" "1y" "Deep Yellow-Green and Crimson" "" "145 (157Cd)"</s>
+            </row-set>
+        </set>
+
+    </page>
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+
+       <set issue="1914-25" description="Series II">
+            <row-set description="Watermarked Zigzag Lines, &quot;Old Die&quot; 19x22½ mm\n\nPaper &quot;C&quot;\n\nComb Perforated 13x13½">
+                <s>"22 26" "½s" "Deep Brown" "" "127(142Cc)"</s>
+                <s>"22 26" "½s" "Reddish Brown" "" "127(142Cca)"</s>
+                <s>"22 26" "1s" "Orange" "" "128 (143Cc)"</s>
+                <s>"22 26" "1s" "Bright Orange" "" "128 (143Cca)"</s>
+                <s>"22 26" "1½s" "Dull Blue" "" "129 (144Cc)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "2s" "Green" "" "130 (145Cc)"</s>
+                <s>"22 26" "3s" "Rosine" "" "131 (146Cc)"</s>
+                <s>"22 26" "4s" "Vermilion" "" "132 (147Cc)"</s>
+                <s>"22 26" "5s" "Purple" "" "133 (148Cc)"</s>
+                <s>"22 26" "6s" "Red-Brown" "" "134 (149Cc)"</s>
+                <s>"22 26" "6s" "Chestnut" "" "134 (149Cca)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "8s" "Olive-Gray" "" "135 (150Cc)"</s>
+                <s>"22 26" "10s" "Deep Dull Blue" "" "136 (151Cc)"</s>
+                <s>"22 26" "20s" "Deep Magenta" "" "138 (153Cc)"</s>
+                <s>"22 26" "25s" "Blackish Olive" "" "139 (154Cc)"</s>
+                <s>"22 26" "30s" "Chestnut" "" "140 (155Cc)"</s>
+                <s>"22 26" "50s" "Brown" "" "143(156Cc)"</s>
+            </row-set>
+        </set>        
+
+    </page>
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+
+        <set issue="1914-25" description="Series II">
+            <row-set description="Watermarked Zigzag Lines, &quot;Old Die&quot; 19x22½ mm\n\nPaper &quot;D&quot;\n\nLine Perforated 12">
+                <s>"22 26" "1y" "Bright Green and Crimson" "" "145 (157Da)"</s>
+            </row-set>
+            <row-set description="Line Perforated 13x13½">
+                <s>"22 26" "1y" "Bright Green and Crimson" "" "145 (157Df)"</s>
+            </row-set>
+            <row-set description="Line Perforated 13½">
+                <s>"22 26" "1y" "Bright Green and Crimson" "" "145 (157Dg)"</s>
+            </row-set>
+            <row-set description="Line Perforated 11">
+                <s>"22 26" "2s" "Green" "" "130 (145De)"</s>
+                <s>"22 26" "3s" "Bright Rose-Red" "" "131 (146De)"</s>
+                <s>"22 26" "10s" "Steel Blue" "" "136 (151De)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "30s" "Chestnut" "" "140 (155De)"</s>
+                <s>"22 26" "50s" "Brown" "" "143(156De)"</s>
+                <s>"22 26" "1y" "Yellow-Green and Crimson" "" "145 (157De)"</s>
+            </row-set>
+        </set>
+
+    </page>
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+
+        <set issue="1914-25" description="Series II">
+            <row-set description="Watermarked Zigzag Lines, &quot;Old Die&quot; 19x22½ mm\n\nPaper &quot;D&quot;\n\nComb Perforated 12x12½">
+                <s>"22 26" "½s" "Deep Brown" "" "127(142Db)"</s>
+                <s>"22 26" "1s" "Orange" "" "128 (143Db)"</s>
+                <s>"22 26" "1½s" "Deep Dull Blue" "" "129 (144Db)"</s>
+                <s>"22 26" "2s" "Deep Green" "" "130 (145Db)"</s>
+                <s>"22 26" "3s" "Scarlet" "" "131 (146Db)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "4s" "Scarlet Vermilion" "" "132 (147Db)"</s>
+                <s>"22 26" "5s" "Deep Purple" "" "133 (148Db)"</s>
+                <s>"22 26" "6s" "Red-Brown" "" "134 (149Db)"</s>
+                <s>"22 26" "8s" "Gray-Black" "" "135 (150Db)"</s>
+                <s>"22 26" "10s" "Steel Blue" "" "136 (151Db)"</s>
+                <s>"22 26" "13s" "Light Brown" "" "137 (152Db)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "20s" "Deep Claret" "" "138 (153Db)"</s>
+                <s>"22 26" "25s" "Blackish Olive" "" "139 (154Db)"</s>
+                <s>"22 26" "30s" "Chestnut" "" "140 (155Db)"</s>
+                <s>"22 26" "50s" "Deep Brown" "" "143(156Db)"</s>
+                <s>"22 26" "1y" "Deep Yellowish Green and Crimson" "" "145 (157Db)"</s>
+            </row-set>
+        </set>
+
+    </page>
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+
+       <set issue="1914-25" description="Series II">
+            <row-set description="Watermarked Zigzag Lines, &quot;Old Die&quot; 19x22½ mm\n\nPaper &quot;D&quot;\n\nComb Perforated 13x13½">
+                <s>"22 26" "½s" "Reddish Brown" "" "127(142Dc)"</s>
+                <s>"22 26" "½s" "Bister-Brown" "" "127(142Dca)"</s>
+                <s>"22 26" "½s" " Light Brown" "" "127(142Dcb)"</s>
+                <s>"22 26" "1s" "Orange" "" "128 (143Dc)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "1s" "Yellow-Orange" "" "128 (143Dca)"</s>
+                <s>"22 26" "1½s" "Blue" "" "129 (144Dc)"</s>
+                <s>"22 26" "1½s" "Light Blue" "" "129 (144Dca)"</s>
+                <s>"22 26" "2s" "Green" "" "130 (145Dc)"</s>
+                <s>"22 26" "2s" "Dull Yellow-Green" "" "130 (145Dca)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "3s" "Bright Rose-Red" "" "131 (146Dc)"</s>
+                <s>"22 26" "3s" "Bright Scarlet" "" "131 (146Dca)"</s>
+                <s>"22 26" "5s" "Plum" "" "133 (148Dc)"</s>
+                <s>"22 26" "5s" "Deep Reddish Violet" "" "133 (148Dca)"</s>
+                <s>"22 26" "6s" "Chestnut" "" "134 (149Dc)"</s>
+                <s>"22 26" "6s" "Lake-Brown" "" "134 (149Dca)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "10s" "Steel Blue" "" "136 (151Dc)"</s>
+                <s>"22 26" "13s" "Light Brown" "" "137 (152Dc)"</s>
+                <s>"22 26" "13s" "Yellow Brown" "" "137 (152Dca)"</s>
+                <s>"22 26" "25s" "Blackish Olive" "" "139 (154Dc)"</s>
+                <s>"22 26" "25s" "Brown-Olive" "" "139 (154Dca)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "30s" "Chestnut" "" "140 (155Dc)"</s>
+                <s>"22 26" "30s" "Lake-Brown" "" "140 (155Dca)"</s>
+                <s>"22 26" "50s" "Brown" "" "143(156Dc)"</s>
+                <s>"22 26" "50s" "Reddish Brown" "" "143(156Dca)"</s>
+                <s>"22 26" "1y" "Bright Green and Crimson" "" "145 (157Dc)"</s>
+                <s>"22 26" "1y" "Yellow-Green and Crimson" "" "145 (157Dca)"</s>
+            </row-set>
+        </set>
+        
+    </page>
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+    
+        <set issue="Constant Plate Flaw"></set>
+        <set issue="1914-25" description="Series II">
+            <row-set description="Watermarked Zigzag Lines, &quot;Old Die&quot; 19x22½ mm">
+            </row-set>
+        </set>
+        <set issue="" description="">
+            <row-set description="">
+                <s image="images/Japan/149a.jpg" image-only="true" border="false">"18 18" "" "" "" ""</s>
+            </row-set>
+            <comp-set>
+                <row-set description="">
+                    <s>"22 26" "6s" "" "" "134 (149a)"</s>
+                </row-set>
+            </comp-set>
+        </set>
+        
+    </page>
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+    
+        <set issue="1926-35" description="Series III">
+            <row-set description="Watermarked Zigzag Lines, &quot;New Rotary Die&quot; 18½x22½ mm\n\nHarrow Perforated 13x13½">
+                <s>"22 26" "½s" "Olive-Brown" "" "127a(158)"</s>
+                <s>"22 26" "1½s" "Blue" "" "129b (159)"</s>
+                <s>"22 26" "3s" "Rose Red" "" "131b (160)"</s>
+                <s>"22 26" "30s" "Yellow-Orange and Yellowish Green" "" "142 (161)"</s>
+                <s>"22 26" "50s" "Lake-Brown and Royal Blue" "" "144(162)"</s>
+                <s>"22 26" "1y" "Apple Green and Brown-Lake" "" "145a (163)"</s>
+            </row-set>
+            <row-set description="Harrow Perforated 13 Horizontally">
+                <s>"22 26" "1½s" "Light Blue" "" "212 (164)"</s>
+                <s>"22 26" "3s" "Bright Rose Red" "" "213 (165)"</s>
+            </row-set>
+        </set>
+
+    </page>
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+    
+        <set issue="Constant Plate Flaw"></set>
+        <set issue="1926-35" description="Series III">
+            <row-set description="Watermarked Zigzag Lines, &quot;New Rotary Die&quot; 18x22½ mm">
+            </row-set>
+        </set>
+        <set issue="" description="">
+            <row-set description="">
+                <s image="images/Japan/159b.jpg" image-only="true" border="false">"18 18" "" "" "" ""</s>
+            </row-set>
+            <comp-set>
+                <row-set description="">
+                    <s>"22 26" "1½s" "Blue" "" "129b (159b)"</s>
+                </row-set>
+            </comp-set>
+        </set>
+    </page>
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+    
+        <set issue="1926-31" description="Series IV">
+            <row-set description="Watermarked Zigzag Lines, &quot;New Flat Plate Die&quot; 18½x22 mm\n\nComb Perforated 13x13½">
+                <s>"22 26" "½s" "Brown" "" "127a(166)"</s>
+                <s>"22 26" "1s" "Yellow-Orange" "" "128a (167)"</s>
+                <s>"22 26" "1½s" "New Blue" "" "129b (168)"</s>
+                <s>"22 26" "3s" "Bright Rose-Red" "" "131b (169)"</s>
+               </row-set>
+            <row-set> 
+                <s>"22 26" "5s" "Reddish Violet" "" "133a (170)"</s>
+                <s>"22 26" "7s" "Orange" "" "135(171)"</s>
+                <s>"22 26" "13s" "Ochre" "" "138a (172)"</s>
+                <s>"22 26" "25s" "Green-Olive" "" "140a (173)"</s>
+            </row-set>
+        </set>
+    </page>
+
+    <page title="Japan" subtitle="The Tazawa Issues of 1913-1938">
+        <set issue="1937" description="Series V">
+            <row-set description="Watermarked Curved Wavy Lines\n\n&quot;New Rotary Die&quot; 18½x22½ mm\n\nHarrow Perforated 13x13½">
+                <s>"22 26" "½s" "Olive Brown" "" "239(174)"</s>
+                <s>"22 26" "3s" "Bright Rose-Red" "" "241 (175)"</s>
+                <s>"22 26" "3s" "Rose-Red" "" "241 (175a)"</s>
+                <s>"22 26" "30s" "Yellow-Orange and Yellowish Green" "" "250 (176)"</s>
+                <s>"22 26" "50s" "Orange-Brown and\nRoyal Blue" "" "251(177)"</s>
+                <s>"22 26" "1y" "Bright Green and Crimson" "" "252 (178)"</s>
+            </row-set>
+        </set>
+        <set issue="1938">
+            <row-set description="Coil\n\nHarrow Perforated 13 Horizontally">
+                <s>"22 26" "3s" "Bright Rose-Red" "" "241 (179)"</s>
+            </row-set>
+        </set>
+        <set issue="1937">
+            <row-set description="&quot;New Flat Plate Die&quot; 18½x22 mm\n\nComb Perforated 13x13½">
+                <s>"22 26" "½s" "Olive-Sepia" "" "239(180)"</s>
+                <s>"22 26" "1s" "Orange-Yellow" "" "240(181)"</s>
+                <s>"22 26" "3s" "Bright Rose-Red" "" "241 (182)"</s>
+            </row-set>
+            <row-set>
+                <s>"22 26" "3s" "Rose-Red" "" "241 (182a)"</s>
+                <s>"22 26" "5s" "Reddish Lilac" "" "243 (183)"</s>
+                <s>"22 26" "7s" "Orange-Red" "" "245(184)"</s>
+                <s>"22 26" "25s" "Gray-Olive" "" "249 (185)"</s>
+            </row-set>
+        </set>
+    </page>
+    
+</album>
